@@ -223,8 +223,8 @@ AI · Web3 · DevOps · Cloud · Security · 等热门技术主题
 
 - 🏠 **官网**：[https://github-star.com](https://github-star.com)
 - 📧 **邮箱**：waywaygood.studio@gmail.com
-- 🐦 **Twitter**：[@WAYWAYGOOD_STU](https://twitter.com/WAYWAYGOOD_STU)
-- 💬 **Telegram**：[@WAYWAYGOOD_STU](https://t.me/WAYWAYGOOD_STU)
+- 🐦 **Twitter**：[WAYWAYGOOD_STU](https://twitter.com/WAYWAYGOOD_STU)
+- 💬 **Telegram**：[WAYWAYGOOD_STU](https://t.me/WAYWAYGOOD_STU)
 
 ### 🎯 关注我们
 
